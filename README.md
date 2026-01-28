@@ -120,4 +120,8 @@ Multiple Videos Stitched Together (not my build)
 	•	This little app creates seamless action sequences with professional cinematic styling
 	https://app.mindstudio.ai/agents/selfie-to-professional-headshot-lora-29c3dbb8/remix
 
+NOTE: the apps labeled "not my build" are from an excellent workshop held by Dmitry Shapiro, "MindStudio Video / Image Workbench"
+	Video recording: https://www.youtube.com/watch?v=EqU53u-Qm1I
+
+FURTHER BUILDS MAY BE FOUND AT: https://university.mindstudio.ai/
 	
