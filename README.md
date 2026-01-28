@@ -51,9 +51,9 @@ Social Post Generator
 People Extractor → Google Sheet (CRM)
 	•	Collects people-related info from webpages and populates a Google Sheet
 
-Drawn Thumbnail Generator
+Drawn Thumbnail Generator (not my build)
 	•	This little app transforms your messaging into compelling visual content
-	https://app.mindstudio.ai/agents/drawn-thumbnail-generator-d15b3e3e/remix
+	https://app.mindstudio.ai/agents/drawn-thumbnail-generator-d15b3e3e/remix 
 
 ⸻
 
@@ -103,20 +103,20 @@ Scraper Scaffold
 Two Pictures to Video
 	•	Takes two images and creates a short video
 
-Video Generator
+Video Generator (not my build)
 	•	This little app creates professional camera shots with custom specifications for film and video production
-	https://app.mindstudio.ai/agents/video-generator-4ad6ca59/remix
+	https://app.mindstudio.ai/agents/video-generator-4ad6ca59/remix 
 
 ⸻
 
 Designed as Workbench Flows
 
 
-Selfie to Professional Headshot LoRA
+Selfie to Professional Headshot LoRA (not my build)
 	•	This little app transforms your selfie into a grid of polished professional portraits
 	https://app.mindstudio.ai/agents/selfie-to-professional-headshot-lora-29c3dbb8/remix
 
-Multiple Videos Stitched Together
+Multiple Videos Stitched Together (not my build)
 	•	This little app creates seamless action sequences with professional cinematic styling
 	https://app.mindstudio.ai/agents/selfie-to-professional-headshot-lora-29c3dbb8/remix
 
