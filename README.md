@@ -1,4 +1,4 @@
-MindStudio-AI-Agents
+MindStudio-AI-Agents (this page is a DRAFT, not yet finalized)
 
 What MindStudio is
 
