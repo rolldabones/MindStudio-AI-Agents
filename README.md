@@ -50,6 +50,7 @@ Social Post Generator
 
 People Extractor → Google Sheet (CRM)
 	•	Collects people-related info from webpages and populates a Google Sheet
+	https://app.mindstudio.ai/agents/people-extractor--google-sheet-crm-d1f3b944/remix
 
 Drawn Thumbnail Generator (not my build)
 	•	This little app transforms your messaging into compelling visual content
